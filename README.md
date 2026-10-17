@@ -97,4 +97,4 @@ fig.tight_layout()
 plt.show()
 
 
-<img width="285" height="304" alt="image" src="https://github.com/user-attachments/assets/a08dacb8-2f62-4f4a-bb1e-3fc8b7211ec1" />
+![Business Performance Dashboard](business_dashboard.png)
